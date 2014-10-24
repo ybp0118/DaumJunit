@@ -10,6 +10,6 @@ public class junit{
     @Test
     public void junit() throws Exception {
         Assert.assertEquals(1 + 1, 2);
-        Assert.assertEquals(2 * 2, 4);
+        Assert.assertEquals(2 * 3, 6);
     }
 }
